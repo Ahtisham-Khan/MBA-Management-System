@@ -1,0 +1,13 @@
+E:\New folder (2)\Applications\MBAManagementSystem\MBAManagementSystem\bin\Debug\MBAManagementSystem.exe.config
+E:\New folder (2)\Applications\MBAManagementSystem\MBAManagementSystem\obj\Debug\MBAManagementSystem.csprojResolveAssemblyReference.cache
+E:\New folder (2)\Applications\MBAManagementSystem\MBAManagementSystem\obj\Debug\MBAManagementSystem.Properties.Resources.resources
+E:\New folder (2)\Applications\MBAManagementSystem\MBAManagementSystem\obj\Debug\MBAManagementSystem.csproj.GenerateResource.Cache
+E:\New folder (2)\Applications\MBAManagementSystem\MBAManagementSystem\bin\Debug\MBAManagementSystem.exe
+E:\New folder (2)\Applications\MBAManagementSystem\MBAManagementSystem\bin\Debug\MBAManagementSystem.pdb
+E:\New folder (2)\Applications\MBAManagementSystem\MBAManagementSystem\obj\Debug\MBAManagementSystem.exe
+E:\New folder (2)\Applications\MBAManagementSystem\MBAManagementSystem\obj\Debug\MBAManagementSystem.pdb
+E:\New folder (2)\Applications\MBAManagementSystem\MBAManagementSystem\obj\Debug\MBAManagementSystem.frmMainForm.resources
+E:\New folder (2)\Applications\MBAManagementSystem\MBAManagementSystem\obj\Debug\MBAManagementSystem.frmUserTypes.resources
+E:\New folder (2)\Applications\MBAManagementSystem\MBAManagementSystem\obj\Debug\MBAManagementSystem.Forms.UserForms.frmAddUsers.resources
+E:\New folder (2)\Applications\MBAManagementSystem\MBAManagementSystem\obj\Debug\MBAManagementSystem.Forms.UserForms.frmLogin.resources
+E:\New folder (2)\Applications\MBAManagementSystem\MBAManagementSystem\obj\Debug\MBAManagementSystem.Forms.UserForms.frmUpdateUser.resources
